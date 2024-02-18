@@ -3,7 +3,7 @@
 
 ### 👩🏻 A UX Designer/Developer passionate about great user experiences.
 
-👩🏻‍💻 All of my projects are available at <b></b>[amyvelazquez.com](amyvelazquez.com)</b><br>📫 You can reach me <b></b>[on LinkedIn](https://www.linkedin.com/in/amyvelazquez/)</b>
+👩🏻‍💻 All of my projects are available at <b>[amyvelazquez.com](amyvelazquez.com)</b><br>📫 You can reach me <b>[on LinkedIn](https://www.linkedin.com/in/amyvelazquez/)</b>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amyvelazquez) 
