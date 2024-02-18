@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Amy Velazquez!<br>A UX Designer/Developer passionate about great user experiences.<br>👨‍💻 All of my projects are available at [amyvelazquez.com](amyvelazquez.com)<br>📫 You can reach me [on LinkedIn](https://www.linkedin.com/in/amyvelazquez/)
+Hi 👋, I'm Amy Velazquez!<br>A UX Designer/Developer passionate about great user experiences.<br>👨‍💻 All of my projects are available at **[amyvelazquez.com](amyvelazquez.com)**<br>📫 You can reach me **[on LinkedIn](https://www.linkedin.com/in/amyvelazquez/)**
 
 
 ## 🌐 Socials:
