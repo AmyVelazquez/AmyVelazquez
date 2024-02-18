@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 # Hi 👋, I'm Amy Velazquez!
 
 ### 👩🏻 A UX Designer/Developer passionate about great user experiences.
